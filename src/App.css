@@ -1,0 +1,31 @@
+#containor {
+    display: flex;
+    margin: 3%;
+    gap: 6%;
+}
+#vidDetail{
+    display: flex;
+    flex-direction: column;
+    width: 200%;
+
+}
+
+#vidList {
+    display: flex;
+    flex-direction: column;
+    height: 20%;
+    justify-content: center;
+}
+
+@media (max-width:890px) {
+    #containor {
+        flex-direction: column;
+    }
+    #title{
+        font-size: small;
+    }
+    #midLine {
+        display: none;
+    }
+
+}

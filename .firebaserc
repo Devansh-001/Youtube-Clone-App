@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "video-player-app": "clone-app-c209f",
+    "default": "clone-app-c209f"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
