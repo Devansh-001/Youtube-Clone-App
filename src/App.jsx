@@ -14,9 +14,7 @@ function App() {
         part: "snippet",
         maxResults: 5,
         q: searchTerm,
-        // key: "AIzaSyCQFHOFcAp75BTOJB5l1jbXktyRplvs3WU",
-        // key: "AIzaSyAbLmcmGTisASED874vOGLKiurhvQCD61w",
-        key: "AIzaSyBa4L0Hlps0xUvBu5MGndEozgpHox2Ng2w",
+        key:[ADD YOUR KEY HERE],
       }
     });
     console.log(response);
